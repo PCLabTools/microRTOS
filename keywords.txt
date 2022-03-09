@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+micrRTOS	KEYWORD1
+micrRTOS_manager	KEYWORD1
+micrRTOS_interface	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+run	KEYWORD2
+run_core KEYWORD2
+stop	KEYWORD2
+cmd	KEYWORD2
+reg	KEYWORD2
+dereg	KEYWORD2
+cmd_all	KEYWORD2
+parse	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,0 +1,32 @@
+{
+  "name": "microRTOS",
+  "version": "1.0.0",
+  "description": "ESP32 freeRTOS library facilitating a module based architecture using the Arduino Framework",
+  "keywords": "freeRTOS, RTOS, real-time, esp",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/PCLabTools/microRTOS"
+  },
+  "authors":
+  [
+    {
+      "name": "Larry Colvin",
+      "email": "pclabtools@projectcolvin.com",
+      "url": "https://www.projectcolvin.com/about",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/PCLabTools/microRTOS",
+  "dependencies":
+  [
+    {
+      "owner": "bblanchon",
+      "name": "ArduinoJson",
+      "version": "^6.19.2"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
